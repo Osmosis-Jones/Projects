@@ -1,0 +1,63 @@
+            img#image {
+                /*align-self: center;
+        object-fit: cover;
+        padding-bottom: 40px;
+        max-width: 100%;
+        height: 100%;*/
+                display: block;
+                max-width: 100%;
+                height: auto;
+            }
+            
+            * {
+                padding: 0;
+                margin: 0;
+                box-sizing: border-box;
+            }
+            
+            h1 {
+                font-family: 'Secular One', sans-serif;
+                font-size: 54px;
+                text-align: center;
+                padding: 10px 0px 20px 0px;
+            }
+            
+            h2 {
+                text-align: center;
+                padding-bottom: 10px;
+            }
+            
+            div#img-div {}
+            
+            main#main {
+                width: 100%;
+                height: 100%;
+            }
+            
+            .center {
+                display: block;
+                margin-left: auto;
+                margin-right: auto;
+                width: 50%;
+            }
+            
+            h3 {
+                background-color: beige;
+                padding: 20px 0px 20px 0px;
+                font-weight: bold;
+                text-align: center;
+            }
+            
+            ul li {
+                padding-top: 10px;
+                padding-bottom: 10px;
+            }
+            
+            body {
+                background: radial-gradient(silver, grey);
+            }
+            
+            p#tribute-info {
+                text-align: center;
+                padding-bottom: 20px;
+            }
